@@ -11,6 +11,8 @@ This repository contains the environment setting as primary requirement to run a
 
 ## Python
 
+* [How to list python project's requirements?](https://github.com/engrjislam/settings/wiki/Python-project's-requirements.txt#how-to-list-python-projects-requirements)
+
 ## Java
 
 ## Scala

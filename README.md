@@ -12,6 +12,7 @@ This repository contains the environment setting as primary requirement to run a
 
 ## Python
 * [How to list python project's requirements?](https://github.com/engrjislam/settings/wiki/Python-project's-requirements.txt#how-to-list-python-projects-requirements)
+* [How to create a virtual environment for python developer on windows?](https://github.com/engrjislam/settings/wiki/Virtual-environment-for-python-developer-on-windows#how-to-create-a-virtual-environment-for-python-developer-on-windows)
 
 ## Java
 * [How multiple databases can be used for a large application?](https://github.com/engrjislam/multidbspring/wiki/Multiple-databases-for-a-large-application#how-multiple-databases-can-be-used-for-a-large-application)
